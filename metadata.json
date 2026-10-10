@@ -1,0 +1,6 @@
+{
+  "name": "TikFulfill - Quản Lý Order & Fulfillment POD",
+  "description": "Hệ thống quản lý đơn hàng TikTok Shop POD từ Google Sheet, cập nhật Fulfillment (Variant ID, Design Front, Back, Mockup, Quantity, Label) và xuất file Excel chuẩn nhà in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
